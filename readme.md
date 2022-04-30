@@ -1,3 +1,6 @@
+# linqts-es 
+Linqts library compiled for ES module
+
 # LinQ for TypeScript
 
 [![Build](https://github.com/kutyel/linq.ts/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/kutyel/linq.ts/actions/workflows/main.yml)
