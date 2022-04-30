@@ -1,4 +1,4 @@
-# linqts-es 
+# linqts-es-module
 Linqts library compiled for ES module
 
 # LinQ for TypeScript
